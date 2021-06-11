@@ -3,3 +3,14 @@ body {
   color: azure;
   font-size: 20px;
 }
+
+.container {
+  background-color: gray;
+  font-style: italic;
+
+}
+
+.container p {
+  font-weight: bold;
+
+}
