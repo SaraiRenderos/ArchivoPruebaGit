@@ -18,16 +18,16 @@ body {
 
 
 .container h1 {
-  color: green;
-}
-header{
- background-color: green;
-color: white;
-
+  color: black;
 }
 
-footer{
-background-color: blue;
+header {
+  background-color: green;
+  color: white;
 
 }
 
+footer {
+  background-color: blue;
+
+}
