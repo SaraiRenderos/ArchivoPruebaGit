@@ -6,4 +6,10 @@ He añadido un nuevo comentario detro del texto soy estela estudiante
 
 Cambio 1 de master 
 
+<<<<<<< HEAD
 Cambio 2 de master 
+=======
+1° Cambio desde la rama experimento 
+
+2° Cambio desde la rama experimento 
+>>>>>>> 38b8ee2 (Añadiendo el segundo cambio dentro de expe)
