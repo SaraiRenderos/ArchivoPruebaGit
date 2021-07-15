@@ -30,5 +30,9 @@ font-family: Arial;
 
 footer {
   background-color: blue;
+  
+}
 
+footer p {
+font-family: Arial;
 }
